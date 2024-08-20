@@ -1,0 +1,16 @@
+Kotlin is a modern, trending programming language. released in 2016 by JetBrains.
+Kotlin is easy to learn, especially if you already know Java 
+    (it is 100% compatible with Java).
+Kotlin is used to develop Android apps, server side apps, and much more.
+
+Kotlin is used for:
+    -Mobile applications (specially Android apps)
+    -Web development
+    -Server side applications
+    -Data science
+    -And much, much more!
+    
+//fun : used to declare a function
+fun main() {  //main: to execute code.
+    println("Hello, world!!!")
+}
