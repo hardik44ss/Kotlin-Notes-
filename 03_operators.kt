@@ -15,7 +15,7 @@ fun main() {
     println(y)
 
     // Assignment Operators
-    println("Assignment Operators
+    println("Assignment Operators")
     x += 3
     println(x)       // x = x + 3
     x -= 2
@@ -28,7 +28,7 @@ fun main() {
     println(x)       // x = x % 3
 
     // Comparison Operators
-    println("COmparision Operators
+    println("COmparision Operators")
     println(x == y)  // Equal to
     println(x != y)  // Not equal
     println(x > y)   // Greater than
