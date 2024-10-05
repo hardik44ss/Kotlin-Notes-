@@ -24,3 +24,5 @@ Clone the repository to follow along with your own practice.
 
 ```bash
 git clone https://github.com/hardik44ss/Kotlin-Notes-.git
+
+Code written by : Hardik Suthar 
